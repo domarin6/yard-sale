@@ -1,2 +1,2 @@
 # yard-sale
-Practical course of fronten developper of platzi.
+Practical course of frontend developper of platzi.
